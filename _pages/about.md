@@ -3,10 +3,6 @@ layout: page
 title: About
 include_in_header: true
 ---
-
-**Last updated**  
-July 15 2020
-
 ## Contributors (In no order)
 
 ### Backend & Frontend
@@ -24,3 +20,6 @@ July 15 2020
 
 ### Other
  - Furkan Mustafa (Support)
+
+**Last updated**  
+July 15 2020

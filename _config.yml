@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : sync
     
   - title                                 : Battery friendly
-    description                           : It uses Low Bluetooht Energy for beacons.
+    description                           : It uses Bluetooth Low Energy for beacons.
     fontawesome_icon_name                 : mobile
 
 

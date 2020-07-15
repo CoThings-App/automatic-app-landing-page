@@ -7,9 +7,9 @@ include_in_header: true
 ## Project Repos:
 - GitHub (For Community Development)
     - [Backend & Frontend](https://github.com/cothings-app/cothings)
-    - [iOS](https://github.com/cothings-app/cothings-ios)
-    - [Website](https://github.com/cothings-app/cothings-website)
-    - [Designs](https://github.com/cothings-app/cothings-design)
+    - [iOS](https://github.com/cothings-app/ios)
+    - [Website](https://github.com/cothings-app/website)
+    - [Designs](https://github.com/cothings-app/design)
 
 ## Open Source Libraries
  - [SwiftPhoenixClient v1.2.1](https://github.com/davidstump/SwiftPhoenixClient)
