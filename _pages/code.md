@@ -4,9 +4,6 @@ title: Code
 include_in_header: true
 ---
 
-**Last updated**  
-July 15 2020
-
 ## Project Repos:
 - GitHub (For Community Development)
     - [Backend & Frontend](https://github.com/cothings-app/cothings)
@@ -24,3 +21,6 @@ July 15 2020
 
 ## Releases
   Release related information and source codes can be found on each reporsitory's home page.
+
+**Last updated**  
+July 15 2020

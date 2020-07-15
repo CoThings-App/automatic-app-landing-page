@@ -4,7 +4,10 @@ title: What's New
 include_in_header: true
 ---
 
-### `Initial Release`
-# **Version 1.0**
+### Initial Release
+# **Version 1.0.0**
 
 You can monitor shared things.
+
+**Last updated**  
+July 15 2020

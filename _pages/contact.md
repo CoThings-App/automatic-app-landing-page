@@ -5,5 +5,5 @@ include_in_header: true
 ---
 
 Getting touch with us:
-- info@cothings.app
-- https://twitter.com/cothingsapp
+- [Mail](info@cothings.app)
+- [Twitter](https://twitter.com/cothingsapp)

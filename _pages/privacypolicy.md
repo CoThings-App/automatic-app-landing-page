@@ -4,9 +4,6 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-July 15 2020
-
 # Privacy Policy
 Here's CoThings's default privacy policy. Since CoThings is open source, anyone can distribute the applications, so you should check their privacy policy. The privacy policy can be found on the server home page and mobile application's About screen and Boarding screen which shows on the very first launch of the application.
 
@@ -33,3 +30,6 @@ You can enable local push notication to let know when you enter / exit the rooms
 ## Source
 
 And CoThings is open source! Checkout the [source code](/code)
+
+**Last updated**  
+July 15 2020
