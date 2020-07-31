@@ -19,9 +19,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : CoThings                                
-your_link                                 : https://cothings.app
-your_city                                 : Tokyo                                
+your_name                                 : Those People                                
+your_link                                 : https://cothings.app/about
+your_city                                 : from all over the world                    
 email_address                             : info@cothings.app
 facebook_username                         :                                           
 instagram_username                        : 
@@ -34,10 +34,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Monitoring Shared Things
-    description                           : You can monitor multiple rooms in realtime
+  - title                                 : Monitoring
+    description                           : You can monitor multiple rooms in realtime.
     fontawesome_icon_name                 : sync
+
+  - title                                 : Notifications
+    description                           : Optinal Notifications when enter or exists the rooms.
+    fontawesome_icon_name                 : dot-circle
     
+  - title                                 : QR Scanner
+    description                           : Quickly connect to the server via scanning QR code.
+    fontawesome_icon_name                 : camera
+
   - title                                 : Battery friendly
     description                           : It uses Bluetooth Low Energy for beacons.
     fontawesome_icon_name                 : mobile

@@ -7,7 +7,9 @@ include_in_header: true
 ### Initial Release
 # **Version 1.0.0**
 
-You can monitor shared things.
+- You can monitor shared things.
+- Optinal Notifications when enter or exists the rooms.
+- Quickly connect to the server via scanning QR code.
 
 **Last updated**  
-July 15 2020
+July 31 2020
